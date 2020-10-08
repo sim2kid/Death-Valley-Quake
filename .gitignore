@@ -1,0 +1,13 @@
+tools
+working/compile.bat
+working/run.bat
+id1/PAK0.PAK
+id1/PAK1.PAK
+*.dll
+quakespasm.exe
+Quakespasm.html
+quakespasm.pak
+Quakespasm.txt
+Quakespasm-Music.txt
+quakespasm-sdl12.exe
+stdout.txt
