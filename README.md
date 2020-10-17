@@ -2,7 +2,7 @@
 Quake Multiplayer **DEATHMATCH** Map
 *A Research Project*
 
-Map Name: **Fall Valley** *- Working Name*
+Map Name: **DeathValley** *- Working Name*
 
 This map is a competitive multiplayer Quake level for **two to four players** split into two teams.
 This game requires the original Quake to play
