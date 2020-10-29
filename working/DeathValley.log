@@ -5,7 +5,7 @@ Output file: DeathValley.bsp
 ---- LoadMapFile ----
          2789 faces
           468 brushes
-           47 entities
+          162 entities
            40 unique texnames
           160 texinfo
 
@@ -18,7 +18,7 @@ Processing hull 0...
 ---- CSGFaces ----
          2789 brushfaces
          2229 csgfaces
-         1936 mergedfaces
+         1935 mergedfaces
 ---- SolidBSP ----
          2621 split nodes
          1174 solid leafs
@@ -37,7 +37,7 @@ Processing hull 0...
 ---- FillOutside ----
           860 outleafs
 ---- MergeAll ----
-         1296 mergefaces
+         1295 mergefaces
 ---- SolidBSP ----
           918 split nodes
           537 solid leafs
@@ -47,16 +47,16 @@ Processing hull 0...
             0 detail illusionary leafs
             0 detail fence leafs
             0 illusionary visblocker leafs
-         2362 leaffaces
-         1876 nodefaces
+         2361 leaffaces
+         1875 nodefaces
 ---- Portalize ----
           382 vis leafs
           382 vis clusters
           905 vis portals
 ---- Tjunc ----
-         1863 world edges
-         6635 edge points
-         1418 edges added by tjunctions
+         1862 world edges
+         6631 edge points
+         1416 edges added by tjunctions
             0 faces added by tjunctions
 ---- MakeFaceEdges ----
 ---- GrowRegions ----
@@ -65,19 +65,19 @@ Processing hull 2...
 ---- WriteBSPFile ----
 Wrote DeathValley.bsp
           497 planes             9940
-         2506 vertexes          30072
+         2504 vertexes          30048
           918 nodes             22032
            91 texinfo            3640
-         1876 faces             37520
+         1875 faces             37500
          2259 clipnodes         18072
           383 leafs             10724
-         2362 marksurfaces       4724
-         8928 surfedges         35712
-         4465 edges             17860
+         2361 marksurfaces       4722
+         8922 surfedges         35688
+         4462 edges             17848
            40 textures         921124
               lightdata             0
               visdata               0
-              entdata            1778
+              entdata            8337
 
-0.464 seconds elapsed
-Peak memory usage: 20588040 (19.6M)
+0.491 seconds elapsed
+Peak memory usage: 20591862 (19.6M)
