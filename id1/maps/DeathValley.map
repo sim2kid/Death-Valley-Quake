@@ -3,7 +3,7 @@
 // entity 0
 {
 "classname" "worldspawn"
-"wad" "E:/2simm/Documents/GitHub/Quake-Map/wads/prototype.wad;../../wads/free.wad"
+"wad" "E:/2simm/Documents/GitHub/Quake-Map/wads/prototype.wad;E:/2simm/Documents/GitHub/Quake-Map/wads/free.wad"
 // brush 0
 {
 ( -576 256 -32 ) ( -576 -192 -32 ) ( -576 -192 -48 ) 128_brown_2 0 0 0 1 1
@@ -2831,7 +2831,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Stairs"
-"_tb_id" "186"
+"_tb_id" "1"
 // brush 0
 {
 ( -272 608 656 ) ( -272 608 657 ) ( -272 607 656 ) 128_brown_1 0 0 0 1 1
@@ -2883,7 +2883,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "D-Stairs"
-"_tb_id" "187"
+"_tb_id" "2"
 // brush 0
 {
 ( -608 704 640 ) ( -618 714 640 ) ( -618 714 704 ) bolt8 -64 0 0 1 1
@@ -2926,7 +2926,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "D-Stairs"
-"_tb_id" "188"
+"_tb_id" "3"
 // brush 0
 {
 ( -750 718 624 ) ( -750 718 560 ) ( -760 728 560 ) 128_grey_2 -32 0 0 1 1
@@ -2969,7 +2969,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Long Stairs"
-"_tb_id" "189"
+"_tb_id" "4"
 // brush 0
 {
 ( -64 -736 608 ) ( -64 -735 608 ) ( -64 -736 609 ) 128_grey_2 0 0 0 1 1
@@ -2985,8 +2985,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Long Stairs"
-"_tb_id" "190"
-"_tb_group" "189"
+"_tb_id" "5"
+"_tb_group" "4"
 // brush 0
 {
 ( -64 -624 192 ) ( -64 -736 192 ) ( -64 -736 176 ) 128_grey_2 0 0 0 1 1
@@ -3236,7 +3236,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Long Stairs"
-"_tb_id" "191"
+"_tb_id" "6"
 // brush 0
 {
 ( 512 -624 336 ) ( 512 -624 335 ) ( 512 -623 336 ) cor2 0 0 0 1 1
@@ -3252,8 +3252,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Long Stairs"
-"_tb_id" "192"
-"_tb_group" "191"
+"_tb_id" "7"
+"_tb_group" "6"
 // brush 0
 {
 ( 80 -736 768 ) ( 80 -624 768 ) ( 80 -624 784 ) 128_grey_2 0 0 0 1 1
@@ -3503,7 +3503,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Stairs"
-"_tb_id" "193"
+"_tb_id" "8"
 // brush 0
 {
 ( 208 -512 608 ) ( 208 -511 608 ) ( 208 -512 609 ) 128_grey_2 0 0 0 1 1
@@ -3627,7 +3627,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Stairs"
-"_tb_id" "194"
+"_tb_id" "9"
 // brush 0
 {
 ( 352 -512 784 ) ( 352 -511 784 ) ( 352 -512 785 ) bolt18 0 0 0 1 1
@@ -3751,7 +3751,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Slated Stairs"
-"_tb_id" "195"
+"_tb_id" "10"
 // brush 0
 {
 ( 720 -224 400 ) ( 672 -128 400 ) ( 672 -128 416 ) cor2 0 0 0 1 1
@@ -3803,7 +3803,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Slated Stairs"
-"_tb_id" "196"
+"_tb_id" "11"
 // brush 0
 {
 ( 592 288 400 ) ( 544 384 400 ) ( 544 384 416 ) cor2 0 0 0 1 1
@@ -3855,7 +3855,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Stairs"
-"_tb_id" "197"
+"_tb_id" "12"
 // brush 0
 {
 ( 576 448 480 ) ( 576 448 481 ) ( 576 447 480 ) cor2 0 0 0 1 1
@@ -3979,7 +3979,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Stairs"
-"_tb_id" "198"
+"_tb_id" "13"
 // brush 0
 {
 ( 432 448 624 ) ( 432 448 625 ) ( 432 447 624 ) 128_grey_2 0 0 0 1 1
@@ -4119,7 +4119,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Stairs"
-"_tb_id" "199"
+"_tb_id" "14"
 // brush 0
 {
 ( -272 576 576 ) ( -272 400 576 ) ( -272 400 560 ) bolt1 0 0 0 1 1
@@ -4276,7 +4276,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "bridge"
-"_tb_id" "200"
+"_tb_id" "15"
 // brush 0
 {
 ( -432 128 688 ) ( -432 -64 688 ) ( -432 -64 672 ) blackstone2 0 0 0 1 1
@@ -4356,7 +4356,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Arch"
-"_tb_id" "201"
+"_tb_id" "16"
 // brush 0
 {
 ( -304 -176 1136 ) ( -304 -192 1136 ) ( -304 -192 128 ) bolt18 0 0 0 1 1
@@ -4381,8 +4381,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "arc"
-"_tb_id" "202"
-"_tb_group" "201"
+"_tb_id" "17"
+"_tb_group" "16"
 // brush 0
 {
 ( -304 -128 1136 ) ( -304 -176 1136 ) ( -304 -176 1088 ) bolt18 0 0 0 1 1
@@ -4416,7 +4416,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Arch"
-"_tb_id" "203"
+"_tb_id" "18"
 // brush 0
 {
 ( 0 -176 1136 ) ( 0 -192 1136 ) ( 0 -192 128 ) bolt18 0 0 0 1 1
@@ -4441,8 +4441,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "arc"
-"_tb_id" "204"
-"_tb_group" "203"
+"_tb_id" "19"
+"_tb_group" "18"
 // brush 0
 {
 ( 0 240 1136 ) ( 0 192 1136 ) ( 0 192 1120 ) bolt18 0 0 0 1 1
