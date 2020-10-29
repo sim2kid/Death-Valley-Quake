@@ -11,7 +11,7 @@ This game requires the original Quake to play
 * [Through QuakeSpasm](https://sourceforge.net/projects/quakespasm/)
 
 ## How to get the Map
-* Download [QuakeMap for All Systems]() _TODDO Add Link_
+* Download [QuakeMap Dev 0.2](https://github.com/sim2kid/Quake-Map/releases/tag/dev0.2)
 
 ## More Information
 Want to see how the map designed?
