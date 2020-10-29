@@ -3,59 +3,81 @@ Input file: DeathValley.map
 Output file: DeathValley.bsp
 
 ---- LoadMapFile ----
-         2657 faces
-          446 brushes
-           43 entities
-           10 unique texnames
-           75 texinfo
+         2831 faces
+          475 brushes
+           47 entities
+           45 unique texnames
+          179 texinfo
 
 Opened WAD: E:/2simm/Documents/GitHub/Quake-Map/wads/prototype.wad
+Opened WAD: E:/2simm/Documents/GitHub/Quake-Map/wads/free.wad
 Processing hull 0...
 ---- Brush_LoadEntity ----
-          446 brushes
-          309 planes
+          474 brushes
+          323 planes
 ---- CSGFaces ----
-         2657 brushfaces
-         2195 csgfaces
-         1885 mergedfaces
+         2825 brushfaces
+         2258 csgfaces
+         1967 mergedfaces
 ---- SolidBSP ----
-         2602 split nodes
-         1173 solid leafs
-         1412 empty leafs
-           18 water leafs
+         2700 split nodes
+         1201 solid leafs
+         1487 empty leafs
+           13 water leafs
             0 detail leafs
             0 detail illusionary leafs
             0 detail fence leafs
             0 illusionary visblocker leafs
-         5145 leaffaces
-         4655 nodefaces
+         5321 leaffaces
+         4819 nodefaces
 ---- Portalize ----
-         1430 vis leafs
-         1430 vis clusters
-         3828 vis portals
+         1500 vis leafs
+         1500 vis clusters
+         4075 vis portals
 ---- FillOutside ----
-*** WARNING 10: Reached occupant at (672 72 504), no filling performed.
-Leak file written to DeathValley.pts
+          878 outleafs
+---- MergeAll ----
+         1328 mergefaces
+---- SolidBSP ----
+          942 split nodes
+          549 solid leafs
+          389 empty leafs
+            5 water leafs
+            0 detail leafs
+            0 detail illusionary leafs
+            0 detail fence leafs
+            0 illusionary visblocker leafs
+         2403 leaffaces
+         1914 nodefaces
+---- Portalize ----
+          394 vis leafs
+          394 vis clusters
+          938 vis portals
+---- Tjunc ----
+         1903 world edges
+         6756 edge points
+         1440 edges added by tjunctions
+            0 faces added by tjunctions
 ---- MakeFaceEdges ----
 ---- GrowRegions ----
 Processing hull 1...
 Processing hull 2...
 ---- WriteBSPFile ----
 Wrote DeathValley.bsp
-          514 planes            10280
-         5703 vertexes          68436
-         2602 nodes             62448
-           54 texinfo            2160
-         4655 faces             93100
-         2325 clipnodes         18600
-         1431 leafs             40068
-         5145 marksurfaces      10290
-        18601 surfedges         74404
-        11879 edges             47516
-           10 textures         185404
+          508 planes            10160
+         2550 vertexes          30600
+          942 nodes             22608
+          101 texinfo            4040
+         1914 faces             38280
+         2276 clipnodes         18208
+          395 leafs             11060
+         2403 marksurfaces       4806
+         9100 surfedges         36400
+         4551 edges             18204
+           45 textures         948544
               lightdata             0
               visdata               0
-              entdata            1778
+              entdata            1807
 
-0.451 seconds elapsed
-Peak memory usage: 25534898 (24.4M)
+0.496 seconds elapsed
+Peak memory usage: 20797550 (19.8M)
