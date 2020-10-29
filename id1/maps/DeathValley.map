@@ -2104,6 +2104,7 @@
 ( 896 -128 480 ) ( 896 288 480 ) ( 896 288 400 ) 128_grey_2 0 0 0 1 1
 }
 <<<<<<< HEAD
+<<<<<<< HEAD
 // brush 234
 {
 ( 592 144 480 ) ( 592 0 480 ) ( 592 0 400 ) brown_brick 0 0 0 1 1
@@ -2113,6 +2114,8 @@
 ( 752 144 400 ) ( 752 144 480 ) ( 592 144 480 ) brown_brick 0 0 0 1 1
 ( 752 0 480 ) ( 752 144 480 ) ( 752 144 400 ) brown_brick 0 0 0 1 1
 }
+=======
+>>>>>>> parent of c10dbbb... Finishes texturing
 =======
 >>>>>>> parent of c10dbbb... Finishes texturing
 // brush 235
@@ -2584,6 +2587,7 @@
 ( 608 432 624 ) ( 608 448 624 ) ( 608 448 112 ) 128_brown_2 0 0 0 1 1
 }
 // brush 287
+<<<<<<< HEAD
 {
 ( 592 432 624 ) ( 592 400 624 ) ( 592 400 464 ) 128_brown_2 0 0 0 1 1
 ( 592 400 624 ) ( 608 400 624 ) ( 608 400 608 ) 128_brown_2 0 0 0 1 1
@@ -2594,6 +2598,18 @@
 }
 // brush 288
 {
+=======
+{
+( 592 432 624 ) ( 592 400 624 ) ( 592 400 464 ) 128_brown_2 0 0 0 1 1
+( 592 400 624 ) ( 608 400 624 ) ( 608 400 608 ) 128_brown_2 0 0 0 1 1
+( 592 432 624 ) ( 608 432 624 ) ( 608 400 624 ) 128_brown_2 0 0 0 1 1
+( 608 432 608 ) ( 608 432 624 ) ( 592 432 624 ) 128_brown_2 0 0 0 1 1
+( 608 400 608 ) ( 608 432 608 ) ( 592 432 464 ) 128_brown_2 48 48 0 1 1
+( 608 400 624 ) ( 608 432 624 ) ( 608 432 608 ) 128_brown_2 0 0 0 1 1
+}
+// brush 288
+{
+>>>>>>> parent of c10dbbb... Finishes texturing
 ( 736 576 624 ) ( 736 400 624 ) ( 736 400 464 ) 128_brown_2 0 0 0 1 1
 ( 736 400 624 ) ( 752 400 624 ) ( 752 400 464 ) 128_brown_2 0 0 0 1 1
 ( 752 400 464 ) ( 752 576 464 ) ( 736 576 464 ) 128_brown_2 0 0 0 1 1
@@ -2816,6 +2832,7 @@
 ( -1040 368 560 ) ( -1040 368 544 ) ( -896 224 544 ) boards 0 0 0 1 1
 }
 <<<<<<< HEAD
+<<<<<<< HEAD
 // brush 311
 {
 ( 48 -336 784 ) ( 48 -576 784 ) ( 48 -576 336 ) brickends256a 0 0 0 1 1
@@ -2917,6 +2934,8 @@
 }
 =======
 >>>>>>> parent of c10dbbb... Finishes texturing
+=======
+>>>>>>> parent of c10dbbb... Finishes texturing
 }
 // entity 1
 {
@@ -2929,7 +2948,11 @@
 "_tb_type" "_tb_group"
 "_tb_name" "Stairs"
 <<<<<<< HEAD
+<<<<<<< HEAD
 "_tb_id" "262"
+=======
+"_tb_id" "91"
+>>>>>>> parent of c10dbbb... Finishes texturing
 =======
 "_tb_id" "91"
 >>>>>>> parent of c10dbbb... Finishes texturing
@@ -2985,7 +3008,11 @@
 "_tb_type" "_tb_group"
 "_tb_name" "D-Stairs"
 <<<<<<< HEAD
+<<<<<<< HEAD
 "_tb_id" "263"
+=======
+"_tb_id" "92"
+>>>>>>> parent of c10dbbb... Finishes texturing
 =======
 "_tb_id" "92"
 >>>>>>> parent of c10dbbb... Finishes texturing
@@ -3032,7 +3059,11 @@
 "_tb_type" "_tb_group"
 "_tb_name" "D-Stairs"
 <<<<<<< HEAD
+<<<<<<< HEAD
 "_tb_id" "264"
+=======
+"_tb_id" "93"
+>>>>>>> parent of c10dbbb... Finishes texturing
 =======
 "_tb_id" "93"
 >>>>>>> parent of c10dbbb... Finishes texturing
@@ -3079,7 +3110,11 @@
 "_tb_type" "_tb_group"
 "_tb_name" "Long Stairs"
 <<<<<<< HEAD
+<<<<<<< HEAD
 "_tb_id" "265"
+=======
+"_tb_id" "94"
+>>>>>>> parent of c10dbbb... Finishes texturing
 =======
 "_tb_id" "94"
 >>>>>>> parent of c10dbbb... Finishes texturing
@@ -3099,8 +3134,13 @@
 "_tb_type" "_tb_group"
 "_tb_name" "Long Stairs"
 <<<<<<< HEAD
+<<<<<<< HEAD
 "_tb_id" "266"
 "_tb_group" "265"
+=======
+"_tb_id" "95"
+"_tb_group" "94"
+>>>>>>> parent of c10dbbb... Finishes texturing
 =======
 "_tb_id" "95"
 "_tb_group" "94"
@@ -3355,7 +3395,11 @@
 "_tb_type" "_tb_group"
 "_tb_name" "Long Stairs"
 <<<<<<< HEAD
+<<<<<<< HEAD
 "_tb_id" "267"
+=======
+"_tb_id" "96"
+>>>>>>> parent of c10dbbb... Finishes texturing
 =======
 "_tb_id" "96"
 >>>>>>> parent of c10dbbb... Finishes texturing
@@ -3375,8 +3419,13 @@
 "_tb_type" "_tb_group"
 "_tb_name" "Long Stairs"
 <<<<<<< HEAD
+<<<<<<< HEAD
 "_tb_id" "268"
 "_tb_group" "267"
+=======
+"_tb_id" "97"
+"_tb_group" "96"
+>>>>>>> parent of c10dbbb... Finishes texturing
 =======
 "_tb_id" "97"
 "_tb_group" "96"
@@ -3631,7 +3680,11 @@
 "_tb_type" "_tb_group"
 "_tb_name" "Stairs"
 <<<<<<< HEAD
+<<<<<<< HEAD
 "_tb_id" "269"
+=======
+"_tb_id" "98"
+>>>>>>> parent of c10dbbb... Finishes texturing
 =======
 "_tb_id" "98"
 >>>>>>> parent of c10dbbb... Finishes texturing
@@ -3759,7 +3812,11 @@
 "_tb_type" "_tb_group"
 "_tb_name" "Stairs"
 <<<<<<< HEAD
+<<<<<<< HEAD
 "_tb_id" "270"
+=======
+"_tb_id" "99"
+>>>>>>> parent of c10dbbb... Finishes texturing
 =======
 "_tb_id" "99"
 >>>>>>> parent of c10dbbb... Finishes texturing
@@ -3887,7 +3944,11 @@
 "_tb_type" "_tb_group"
 "_tb_name" "Slated Stairs"
 <<<<<<< HEAD
+<<<<<<< HEAD
 "_tb_id" "271"
+=======
+"_tb_id" "100"
+>>>>>>> parent of c10dbbb... Finishes texturing
 =======
 "_tb_id" "100"
 >>>>>>> parent of c10dbbb... Finishes texturing
@@ -3943,7 +4004,11 @@
 "_tb_type" "_tb_group"
 "_tb_name" "Slated Stairs"
 <<<<<<< HEAD
+<<<<<<< HEAD
 "_tb_id" "272"
+=======
+"_tb_id" "101"
+>>>>>>> parent of c10dbbb... Finishes texturing
 =======
 "_tb_id" "101"
 >>>>>>> parent of c10dbbb... Finishes texturing
@@ -3999,7 +4064,11 @@
 "_tb_type" "_tb_group"
 "_tb_name" "Stairs"
 <<<<<<< HEAD
+<<<<<<< HEAD
 "_tb_id" "273"
+=======
+"_tb_id" "102"
+>>>>>>> parent of c10dbbb... Finishes texturing
 =======
 "_tb_id" "102"
 >>>>>>> parent of c10dbbb... Finishes texturing
@@ -4127,7 +4196,11 @@
 "_tb_type" "_tb_group"
 "_tb_name" "Stairs"
 <<<<<<< HEAD
+<<<<<<< HEAD
 "_tb_id" "274"
+=======
+"_tb_id" "103"
+>>>>>>> parent of c10dbbb... Finishes texturing
 =======
 "_tb_id" "103"
 >>>>>>> parent of c10dbbb... Finishes texturing
@@ -4271,7 +4344,11 @@
 "_tb_type" "_tb_group"
 "_tb_name" "Stairs"
 <<<<<<< HEAD
+<<<<<<< HEAD
 "_tb_id" "275"
+=======
+"_tb_id" "104"
+>>>>>>> parent of c10dbbb... Finishes texturing
 =======
 "_tb_id" "104"
 >>>>>>> parent of c10dbbb... Finishes texturing
@@ -4432,7 +4509,11 @@
 "_tb_type" "_tb_group"
 "_tb_name" "bridge"
 <<<<<<< HEAD
+<<<<<<< HEAD
 "_tb_id" "276"
+=======
+"_tb_id" "105"
+>>>>>>> parent of c10dbbb... Finishes texturing
 =======
 "_tb_id" "105"
 >>>>>>> parent of c10dbbb... Finishes texturing
@@ -4516,7 +4597,11 @@
 "_tb_type" "_tb_group"
 "_tb_name" "Arch"
 <<<<<<< HEAD
+<<<<<<< HEAD
 "_tb_id" "277"
+=======
+"_tb_id" "106"
+>>>>>>> parent of c10dbbb... Finishes texturing
 =======
 "_tb_id" "106"
 >>>>>>> parent of c10dbbb... Finishes texturing
@@ -4545,8 +4630,13 @@
 "_tb_type" "_tb_group"
 "_tb_name" "arc"
 <<<<<<< HEAD
+<<<<<<< HEAD
 "_tb_id" "278"
 "_tb_group" "277"
+=======
+"_tb_id" "107"
+"_tb_group" "106"
+>>>>>>> parent of c10dbbb... Finishes texturing
 =======
 "_tb_id" "107"
 "_tb_group" "106"
@@ -4585,7 +4675,11 @@
 "_tb_type" "_tb_group"
 "_tb_name" "Arch"
 <<<<<<< HEAD
+<<<<<<< HEAD
 "_tb_id" "279"
+=======
+"_tb_id" "108"
+>>>>>>> parent of c10dbbb... Finishes texturing
 =======
 "_tb_id" "108"
 >>>>>>> parent of c10dbbb... Finishes texturing
@@ -4614,8 +4708,13 @@
 "_tb_type" "_tb_group"
 "_tb_name" "arc"
 <<<<<<< HEAD
+<<<<<<< HEAD
 "_tb_id" "280"
 "_tb_group" "279"
+=======
+"_tb_id" "109"
+"_tb_group" "108"
+>>>>>>> parent of c10dbbb... Finishes texturing
 =======
 "_tb_id" "109"
 "_tb_group" "108"
