@@ -25,10 +25,10 @@ Final count: 115 lights, 0 suns in use.
 0....1....2....3....4....5....6....7....8....9....
 Lighting Completed.
 
-lightdatasize: 78712
+lightdatasize: 78710
 0 switchable light styles (32 max)
 Writing DeathValley.bsp as BSP version 29
-0.215 seconds elapsed
+0.212 seconds elapsed
 
 stats:
 3.196311 lights tested, 2.348678 hits per sample point
