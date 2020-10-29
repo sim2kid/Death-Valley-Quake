@@ -5,7 +5,7 @@ Output file: DeathValley.bsp
 ---- LoadMapFile ----
          2789 faces
           468 brushes
-          162 entities
+          165 entities
            40 unique texnames
           160 texinfo
 
@@ -77,7 +77,7 @@ Wrote DeathValley.bsp
            40 textures         921124
               lightdata             0
               visdata               0
-              entdata            8337
+              entdata            8539
 
-0.484 seconds elapsed
-Peak memory usage: 20591862 (19.6M)
+0.487 seconds elapsed
+Peak memory usage: 20592030 (19.6M)
