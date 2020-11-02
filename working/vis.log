@@ -177,7 +177,7 @@ WARNING: Leaf portals saw into leaf (379)
 WARNING: Leaf portals saw into leaf (381)
 average leafs visible: 68
 c_noclip: 0
-c_chains: 359852
-visdatasize:9778  compressed from 18336
+c_chains: 357261
+visdatasize:9779  compressed from 18336
 Writing DeathValley.bsp as BSP version 29
   0.4 seconds elapsed

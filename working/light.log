@@ -1,36 +1,37 @@
 ---- light / ericw-tools v0.18.1-32-g6660c5f ----
+extra 2x2 sampling enabled
 Raytracing backend: Embree
 running with 16 threads
 LoadBSPFile: 'DeathValley.bsp'
 BSP is version 29
 SetQdirFromPath: no "maps" in 'E:\2simm\Documents\GitHub\Quake-Map\working\/DeathValley.bsp'--- ConvertTextures ---
 --- LoadEntities ---
-28 entities read, 0 are lights.
+146 entities read, 118 are lights.
 --- OptionsSummary ---
 Embree_TraceInit: Embree version: 2.15.0
 Embree_TraceInit:
 	0 sky faces
-	1820 solid faces
+	1819 solid faces
 	0 filtered faces
 	0 shadow-casting skip faces
-SetupLights: 0 initial lights
-SetupLights: 0 after surface lights
-SetupLights: 0 after jittering
+SetupLights: 118 initial lights
+SetupLights: 118 after surface lights
+SetupLights: 118 after jittering
 --- EstimateLightVisibility ---
-
-Final count: 0 lights, 0 suns in use.
+0....1....2....3....4....5....6....7....8....9....
+Final count: 118 lights, 0 suns in use.
 --- LightWorld ---
 --- LightThread ---
 0....1....2....3....4....5....6....7....8....9....
 Lighting Completed.
 
-lightdatasize: 0
+lightdatasize: 81848
 0 switchable light styles (32 max)
 Writing DeathValley.bsp as BSP version 29
-0.151 seconds elapsed
+0.209 seconds elapsed
 
 stats:
-0.000000 lights tested, 0.000000 hits per sample point
+3.280574 lights tested, 2.426219 hits per sample point
 0.000000 surface lights tested, 0.000000 hits per sample point
 0.000000 bounce lights tested, 0.000000 hits per sample point
 0 empty lightmaps
