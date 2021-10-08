@@ -2831,7 +2831,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Stairs"
-"_tb_id" "20"
+"_tb_id" "39"
 // brush 0
 {
 ( -272 608 656 ) ( -272 608 657 ) ( -272 607 656 ) 128_brown_1 0 0 0 1 1
@@ -2883,7 +2883,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "D-Stairs"
-"_tb_id" "21"
+"_tb_id" "40"
 // brush 0
 {
 ( -608 704 640 ) ( -618 714 640 ) ( -618 714 704 ) bolt8 -64 0 0 1 1
@@ -2926,7 +2926,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "D-Stairs"
-"_tb_id" "22"
+"_tb_id" "41"
 // brush 0
 {
 ( -750 718 624 ) ( -750 718 560 ) ( -760 728 560 ) 128_grey_2 -32 0 0 1 1
@@ -2969,7 +2969,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Long Stairs"
-"_tb_id" "23"
+"_tb_id" "42"
 // brush 0
 {
 ( -64 -736 608 ) ( -64 -735 608 ) ( -64 -736 609 ) 128_grey_2 0 0 0 1 1
@@ -2985,8 +2985,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Long Stairs"
-"_tb_id" "24"
-"_tb_group" "23"
+"_tb_id" "43"
+"_tb_group" "42"
 // brush 0
 {
 ( -64 -624 192 ) ( -64 -736 192 ) ( -64 -736 176 ) 128_grey_2 0 0 0 1 1
@@ -3236,7 +3236,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Long Stairs"
-"_tb_id" "25"
+"_tb_id" "44"
 // brush 0
 {
 ( 512 -624 336 ) ( 512 -624 335 ) ( 512 -623 336 ) cor2 0 0 0 1 1
@@ -3252,8 +3252,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Long Stairs"
-"_tb_id" "26"
-"_tb_group" "25"
+"_tb_id" "45"
+"_tb_group" "44"
 // brush 0
 {
 ( 80 -736 768 ) ( 80 -624 768 ) ( 80 -624 784 ) 128_grey_2 0 0 0 1 1
@@ -3503,7 +3503,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Stairs"
-"_tb_id" "27"
+"_tb_id" "46"
 // brush 0
 {
 ( 208 -512 608 ) ( 208 -511 608 ) ( 208 -512 609 ) 128_grey_2 0 0 0 1 1
@@ -3627,7 +3627,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Stairs"
-"_tb_id" "28"
+"_tb_id" "47"
 // brush 0
 {
 ( 352 -512 784 ) ( 352 -511 784 ) ( 352 -512 785 ) bolt18 0 0 0 1 1
@@ -3751,7 +3751,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Slated Stairs"
-"_tb_id" "29"
+"_tb_id" "48"
 // brush 0
 {
 ( 720 -224 400 ) ( 672 -128 400 ) ( 672 -128 416 ) cor2 0 0 0 1 1
@@ -3803,7 +3803,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Slated Stairs"
-"_tb_id" "30"
+"_tb_id" "49"
 // brush 0
 {
 ( 592 288 400 ) ( 544 384 400 ) ( 544 384 416 ) cor2 0 0 0 1 1
@@ -3855,7 +3855,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Stairs"
-"_tb_id" "31"
+"_tb_id" "50"
 // brush 0
 {
 ( 576 448 480 ) ( 576 448 481 ) ( 576 447 480 ) cor2 0 0 0 1 1
@@ -3979,7 +3979,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Stairs"
-"_tb_id" "32"
+"_tb_id" "51"
 // brush 0
 {
 ( 432 448 624 ) ( 432 448 625 ) ( 432 447 624 ) 128_grey_2 0 0 0 1 1
@@ -4119,7 +4119,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Stairs"
-"_tb_id" "33"
+"_tb_id" "52"
 // brush 0
 {
 ( -272 576 576 ) ( -272 400 576 ) ( -272 400 560 ) bolt1 0 0 0 1 1
@@ -4271,7 +4271,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "bridge"
-"_tb_id" "34"
+"_tb_id" "53"
 // brush 0
 {
 ( -432 128 688 ) ( -432 -64 688 ) ( -432 -64 672 ) blackstone2 0 0 0 1 1
@@ -4346,7 +4346,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Arch"
-"_tb_id" "35"
+"_tb_id" "54"
 // brush 0
 {
 ( -304 -176 1136 ) ( -304 -192 1136 ) ( -304 -192 128 ) bolt18 0 0 0 1 1
@@ -4371,8 +4371,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "arc"
-"_tb_id" "36"
-"_tb_group" "35"
+"_tb_id" "55"
+"_tb_group" "54"
 // brush 0
 {
 ( -304 -128 1136 ) ( -304 -176 1136 ) ( -304 -176 1088 ) bolt18 0 0 0 1 1
@@ -4406,7 +4406,7 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "Arch"
-"_tb_id" "37"
+"_tb_id" "56"
 // brush 0
 {
 ( 0 -176 1136 ) ( 0 -192 1136 ) ( 0 -192 128 ) bolt18 0 0 0 1 1
@@ -4431,8 +4431,8 @@
 "classname" "func_group"
 "_tb_type" "_tb_group"
 "_tb_name" "arc"
-"_tb_id" "38"
-"_tb_group" "37"
+"_tb_id" "57"
+"_tb_group" "56"
 // brush 0
 {
 ( 0 240 1136 ) ( 0 192 1136 ) ( 0 192 1120 ) bolt18 0 0 0 1 1
@@ -4845,7 +4845,7 @@
 // entity 120
 {
 "classname" "light"
-"origin" "-536 -376 232"
+"origin" "-488 -376 232"
 }
 // entity 121
 {
@@ -4920,7 +4920,7 @@
 // entity 135
 {
 "classname" "light"
-"origin" "-936 136 248"
+"origin" "-920 104 248"
 }
 // entity 136
 {
